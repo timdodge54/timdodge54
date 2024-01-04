@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm Timothy Dodge, a Master's student in Electrical Engineering with a focus on Control Theory and Autonomy at Utah State University. My background in Mechanical Engineering and Computer Science drives my passion for optimizing complex systems and developing efficient autonomy solutions. Based in Logan, Utah, I am currently involved in cutting-edge research while aiming to graduate with a perfect GPA.
+Hello! I'm Timothy Dodge, a Master's student in Electrical Engineering with a focus on Control Theory and Autonomy at Utah State University. My background in Mechanical Engineering and Computer Science drives my passion for optimizing complex systems and developing efficient autonomy solutions. Based in Logan, Utah, I am currently involved in cutting-edge research to better the plannent my desinging autonomous control systems for distributed energy resources to reduce peak power consumption. I am seeking a full-time position in the field of robotics and autonomy, starting in December of 2024 and also interested in an Internship during the sumer of 2024.
 
 ## Education
 
