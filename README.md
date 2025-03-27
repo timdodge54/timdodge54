@@ -2,7 +2,8 @@
 
 **Master's Student in Electrical Engineering | Multi-Agent Control & Autonomous Systems Enthusiast**
 
-![Banner](https://source.unsplash.com/1600x400/?technology,abstract)
+![Banner](https://source.unsplash.com/8gKqRV_q41k/1600x400)
+
 
 
 ## About Me
