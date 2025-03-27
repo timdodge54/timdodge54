@@ -2,10 +2,11 @@
 
 **Master's Student in Electrical Engineering | Multi-Agent Control & Autonomous Systems Enthusiast**
 
-![Banner](https://via.placeholder.com/1200x300?text=Your+Custom+Banner+Image)
+![Banner](https://source.unsplash.com/1600x400/?technology,abstract)
+
 
 ## About Me
-I'm passionate about designing smart energy solutions, advanced robotics, and autonomous control systems. With a robust background in Mechanical Engineering and Computer Science, I focus on developing high-performance, data-driven projects that optimize renewable energy, improve robotic controls, and drive innovation in multi-agent systems.
+I'm passionate about designing smart energy solutions, advanced robotics, and autonomous control systems. With a varied background in Mechanical Engineering, Electrical Engineering, and Computer Science, I focus on developing high-performance, data-driven projects that optimize renewable energy, improve robotic controls, and drive innovation in multi-agent systems.
 
 <details>
   <summary><strong>More about my work and interests</strong></summary>
