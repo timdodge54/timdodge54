@@ -1,67 +1,114 @@
-# Timothy Dodge
+# Hi, I'm Timothy Dodge 👋
+
+**Master's Student in Electrical Engineering | Multi-Agent Control & Autonomous Systems Enthusiast**
+
+![Banner](https://via.placeholder.com/1200x300?text=Your+Custom+Banner+Image)
 
 ## About Me
+I'm passionate about designing smart energy solutions, advanced robotics, and autonomous control systems. With a robust background in Mechanical Engineering and Computer Science, I focus on developing high-performance, data-driven projects that optimize renewable energy, improve robotic controls, and drive innovation in multi-agent systems.
 
-Hello! I'm Timothy Dodge, a Master's student in Electrical Engineering with a focus on Control Theory and Autonomy at Utah State University. My background in Mechanical Engineering and Computer Science drives my passion for optimizing complex systems and developing efficient autonomy solutions. Based in Logan, Utah, I am currently involved in cutting-edge research to better the plannent my desinging autonomous control systems for distributed energy resources to reduce peak power consumption. I am seeking a full-time position in the field of robotics and autonomy, starting in December of 2024 and also interested in an Internship during the sumer of 2024.
-
-## Education
-
-- **Utah State University**, Logan, UT
-  - **Master of Science, Electrical Engineering** | Control Theory and Autonomy | GPA: 4.0 | Fall 2024
-  - **Bachelor of Science, Mechanical Engineering** | Computer Science Minor | Magna Cum Laude | May 2023
-
-## Professional Experience
-
-### Graduate Research Assistant
-
-**ASPIRE Research Center**, Logan, UT | May 2023 – Present
-
-- Reduced peak power consumption by 50% through designing an optimization algorithm for scheduling Distributed Energy Resources loads.
-- Constructed a Micro-Grid Model capable of handling over 10,000 changes per second using ROS 2.
-
-### Research Assistant
-
-**Utah State University**, Logan, UT | May 2022 – May 2023
-
-- Developed optimization algorithms for efficient transportation, generating optimal charging schedules for electric bus fleets.
-- Migrated bus simulation packages from ROS 1 to ROS 2, enhancing hardware compatibility.
-
-### Teaching Assistant
-
-**Utah State University**, Logan, UT | Jan 2022 – April 2023
-
-- Automated grading of C++ coursework for 50 students using Python scripting.
-
-## Projects
-
-### Mars Rover Senior Design
-
-- Improved micro-controller software efficiency, reducing latency by 30%.
-- Designed inverse kinematic controls for a robotic arm with a rapid response time.
-
-### Power Consumption Forecasting
-
-- Predicted average household consumption using machine learning techniques.
-- Developed a CONV-LSTM model that outperformed the baseline XGBoost model.
-
-### Epsilon Point Controller
-
-- Created a controller for differential drive robots to track nonlinear trajectories.
-- Ensured adherence to velocity constraints using a Linear Quadratic Regulator.
-
-### RRT* Path Planner in UAV Simulation
-
-- Developed a Python-based UAV simulator with complex frame transformations.
-- Implemented a 2-D path planner using the RRT* algorithm for enhanced pathfinding.
-
-## Skills & Certifications
-
-- **Languages:** Python, C++, MATLAB, C, ARM Assembly, Java, Bash
-- **Engineering:** Controls, Optimization, Machine Learning, Microcontrollers, Dynamics
-- **Certifications:** EIT (Mechanical), Certified SolidWorks Associate
+<details>
+  <summary><strong>More about my work and interests</strong></summary>
+  
+  Currently, I work as a Multi-Agent Control Research Assistant at Aspire Research Center, where I engineer smart energy planning software and build high-fidelity simulation platforms. I also intern at Sandia National Laboratories, deploying cutting-edge autonomous sensing and control algorithms on micro quadcopters. My teaching role at Utah State University has allowed me to mentor students and develop automation tools that enhance learning and research.
+</details>
 
 ## Contact Me
+- **Phone:** 801-458-2020  
+- **Email:** [tim.dodge64@gmail.com](mailto:tim.dodge64@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/timothy-dodge03](https://linkedin.com/in/timothy-dodge03)  
+- **Website:** [timdodge54.github.io](https://timdodge54.github.io)
 
-- **Email:** [tim.dodge64@gmail.com](mailto:tim.dodge64@gmail.com)
-- **LinkedIn:** [linkedin.com/in/timothy-dodge03](https://www.linkedin.com/in/timothy-dodge03)
-- **GitHub:** [github.com/timdodge54](https://github.com/timdodge54)
+## Education
+<details>
+  <summary><strong>Click to view my Education</strong></summary>
+  
+  **Utah State University**  
+  - *Master of Science in Electrical Engineering*  
+    **Focus:** Control Systems and Autonomy | **GPA:** 3.95  
+    *Expected May 2025, Logan, Utah*
+  
+  - *Bachelor of Science in Mechanical Engineering*  
+    **Minor:** Computer Science | **GPA:** 3.93  
+    *May 2023, Logan, Utah*
+</details>
+
+## Experience
+<details>
+  <summary><strong>Click to view my Professional Experience</strong></summary>
+  
+  **Aspire Research Center | Multi-Agent Control Research Assistant**  
+  *May 2022 – Present*  
+  - Engineered smart energy planning software using Python and MATLAB, reducing monthly energy costs by up to 50%.  
+  - Designed a high-fidelity physics simulation platform with the EnergyPlus library for detailed thermal analysis and rapid prototyping.  
+  - Created data visualizations using Matplotlib and Seaborn to support multi-disciplinary research teams and industry sponsors.  
+  - Generated simulation datasets for regression modeling with MATLAB’s System-Identification Toolbox.  
+  - Formulated MPC algorithms to schedule distributed energy resources and reduce peak power consumption by up to 50%.  
+  - Implemented XGBoost models to forecast power consumption for optimized load scheduling.  
+  - Developed optimal charging schedules for electric bus fleets using the Gurobi optimization library.  
+  - Migrated city bus simulation libraries from ROS 1 to ROS 2 in C++, enhancing system compatibility and reducing latency.
+
+  **Sandia National Laboratories | Autonomous Sensing and Control Intern**  
+  *May 2024 – Present*  
+  - Spearheaded the transition from simulation to real-world application for multi-agent reinforcement learning algorithms on micro quadcopters.  
+  - Integrated Vicon motion capture with ROS2 and BitCraze’s Crazyflie 2.X platform to enable autonomous coordination and planning.  
+  - Authored technical reports summarizing key outcomes that helped secure project funding.  
+  - Developed RL models in PyTorch for pursuer-evader challenges, surpassing baseline performance metrics.  
+  - Created trajectory datasets to train diffusion-based multi-agent control models, ensuring high data quality.  
+  - Improved agent policies through competitive self-play and integrated an IMU Simulink model into Rate Table simulations for enhanced dynamics analysis.
+
+  **Utah State University | Teaching Assistant**  
+  *Jan 2022 – May 2023*  
+  - Led lab sessions for 30 students on sensor interfacing with ultrasonic sensors and thermocouples.  
+  - Assisted in designing and debugging LabView VIs for sensor data collection.  
+  - Developed automated grading scripts in Python and Bash for student C++ projects.  
+  - Coordinated material procurement for student projects and guided final project designs.
+</details>
+
+## Projects
+<details>
+  <summary><strong>Click to view my Projects</strong></summary>
+  
+  **Replica Mars Rover**  
+  *Technologies: C++, C#, SolidWorks, Microcontrollers*  
+  - Designed and implemented inverse kinematic controls for a 6 DOF robotic arm, enabling efficient real-time operations.  
+  - Enhanced micro-controller software to reduce latency by 30% via serial communication integration with ROS.  
+  - Collaborated on a novel 6-axis robotic arm design with worm-gears and linear rail actuation using SolidWorks.
+
+  **Power Consumption Forecasting**  
+  *Technologies: PyTorch, Pandas, Neural Networks, Scikit-Learn*  
+  - Preprocessed a smart meter dataset of 5,000 homes to optimize neural network inputs using Pandas.  
+  - Architected a deep residual network as a baseline model for comparison.  
+  - Developed a CONV-LSTM model that outperformed an XGBoost baseline while reducing training time by 90%.
+
+  **Epsilon Point Controller**  
+  *Technologies: Nonlinear Controls, Python, Numpy, ROS2, Gazebo*  
+  - Engineered a controller for differential drive robots to track nonlinear and time-varying trajectories.  
+  - Optimized the Turtlebot3 control system with LQR techniques to respect velocity constraints.  
+  - Achieved convergence to target trajectories within 2 seconds of receiving new signals.
+
+  **UAV RRT* Path Planner**  
+  *Technologies: ROS2, Python, Controls*  
+  - Developed a Python-based UAV simulator with advanced frame transformations and force simulations.  
+  - Implemented the RRT* algorithm to enhance 2-D pathfinding capabilities over the standard RRT.  
+  - Conducted extensive Monte Carlo Analysis to validate the planner’s efficiency and reliability.
+</details>
+
+## Skills & Certifications
+<details>
+  <summary><strong>Click to view my Skills and Certifications</strong></summary>
+  
+  **Certifications:**  
+  - Engineer in Training (EIT)  
+  - Reinforcement Learning Specialization (University of Alberta)
+  
+  **Languages:**  
+  - Python, C++, MATLAB, Simulink, C#, ARM-Assembly, Java
+  
+  **Technologies & Frameworks:**  
+  - Linux, ROS/ROS2, Git, PyTorch, Numpy, Pandas, Gurobi, Eigen, SolidWorks, Docker
+</details>
+
+## Interactive Stats
+![GitHub followers](https://img.shields.io/github/followers/timdodge54?label=Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/timdodge54?label=Stars&style=social)
